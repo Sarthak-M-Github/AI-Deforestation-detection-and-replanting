@@ -1,4 +1,4 @@
-# AI Deforestation Detection and Replanting
+# AI framework for Deforestation Detection and Smart Replanting
 
 ##  Overview
 This project was designed as a research-oriented study to **compare machine learning models** for two tasks:
