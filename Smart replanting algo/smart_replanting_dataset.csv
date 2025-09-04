@@ -1,0 +1,260 @@
+NDVI,Rainfall,Temperature,Region,Soil_Type,Label,Grouped_Label
+0.675,1831,24.3,Sundarban,Saline Loam,Keora,Mangrove
+0.631,1876,28.4,Sundarban,Saline Loam,Sundari,Mangrove
+0.604,1747,25.1,Sundarban,Saline Loam,Sundari,Mangrove
+0.637,1608,26.4,Sundarban,Saline Loam,Keora,Mangrove
+0.686,1647,27.2,Sundarban,Saline Loam,Goran,Mangrove
+0.628,1658,24.6,Sundarban,Saline Loam,Sundari,Mangrove
+0.691,1859,25.1,Sundarban,Saline Loam,Sundari,Mangrove
+0.703,1811,25.2,Sundarban,Saline Loam,Sundari,Mangrove
+0.722,1894,25.1,Sundarban,Saline Loam,Keora,Mangrove
+0.62,1985,25.1,Sundarban,Saline Loam,Sundari,Mangrove
+0.624,1799,25.2,Sundarban,Saline Loam,Keora,Mangrove
+0.782,1677,27.2,Sundarban,Saline Loam,Keora,Mangrove
+0.662,1919,30.2,Sundarban,Saline Loam,Keora,Mangrove
+0.637,1817,27.1,Sundarban,Saline Loam,Sundari,Mangrove
+0.618,1641,24.5,Sundarban,Saline Loam,Keora,Mangrove
+0.654,1905,25.3,Sundarban,Saline Loam,Goran,Mangrove
+0.656,1813,24.3,Sundarban,Saline Loam,Sundari,Mangrove
+0.76,1861,25.0,Sundarban,Saline Loam,Sundari,Mangrove
+0.601,1888,26.9,Sundarban,Saline Loam,Sundari,Mangrove
+0.746,1769,24.7,Sundarban,Saline Loam,Sundari,Mangrove
+0.773,1909,23.7,Sundarban,Saline Loam,Sundari,Mangrove
+0.613,1680,24.3,Sundarban,Saline Loam,Keora,Mangrove
+0.746,1829,27.3,Sundarban,Saline Loam,Keora,Mangrove
+0.694,1735,26.5,Sundarban,Saline Loam,Sundari,Mangrove
+0.752,1833,28.2,Sundarban,Saline Loam,Keora,Mangrove
+0.699,1882,22.1,Sundarban,Saline Loam,Sundari,Mangrove
+0.605,1904,23.9,Sundarban,Saline Loam,Keora,Mangrove
+0.702,1835,25.7,Sundarban,Saline Loam,Keora,Mangrove
+0.682,1874,24.8,Sundarban,Saline Loam,Keora,Mangrove
+0.615,1749,24.8,Sundarban,Saline Loam,Keora,Mangrove
+0.586,1015,28.8,Gir,Dry Clay,Acacia,DroughtResistant
+0.574,951,27.2,Gir,Dry Clay,Teak,Hardwood
+0.579,917,30.1,Gir,Dry Clay,Acacia,DroughtResistant
+0.579,867,26.9,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.446,870,29.9,Gir,Dry Clay,Acacia,DroughtResistant
+0.572,876,28.0,Gir,Dry Clay,Teak,Hardwood
+0.483,871,27.4,Gir,Dry Clay,Teak,Hardwood
+0.468,940,27.8,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.504,1040,26.6,Gir,Dry Clay,Acacia,DroughtResistant
+0.594,897,25.1,Gir,Dry Clay,Acacia,DroughtResistant
+0.457,856,28.2,Gir,Dry Clay,Acacia,DroughtResistant
+0.501,930,27.7,Gir,Dry Clay,Teak,Hardwood
+0.429,899,28.5,Gir,Dry Clay,Teak,Hardwood
+0.448,975,29.7,Gir,Dry Clay,Acacia,DroughtResistant
+0.448,1038,26.8,Gir,Dry Clay,Teak,Hardwood
+0.526,1119,28.9,Gir,Dry Clay,Teak,Hardwood
+0.418,992,27.3,Gir,Dry Clay,Acacia,DroughtResistant
+0.437,849,28.1,Gir,Dry Clay,Teak,Hardwood
+0.536,863,28.0,Gir,Dry Clay,Acacia,DroughtResistant
+0.445,947,26.4,Gir,Dry Clay,Acacia,DroughtResistant
+0.538,883,28.9,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.428,867,26.8,Gir,Dry Clay,Acacia,DroughtResistant
+0.585,955,27.5,Gir,Dry Clay,Teak,Hardwood
+0.532,1030,28.3,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.506,879,27.5,Gir,Dry Clay,Acacia,DroughtResistant
+0.579,978,28.4,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.468,813,29.9,Gir,Dry Clay,Teak,Hardwood
+0.579,934,28.4,Gir,Dry Clay,Acacia,DroughtResistant
+0.528,984,28.3,Gir,Dry Clay,Teak,Hardwood
+0.402,828,28.4,Gir,Dry Clay,Zizyphus,DroughtResistant
+0.501,1078,25.3,Corbett,Alluvial,Haldu,Hardwood
+0.638,1265,23.2,Corbett,Alluvial,Rohini,Hardwood
+0.642,1086,23.9,Corbett,Alluvial,Rohini,Hardwood
+0.649,1241,26.4,Corbett,Alluvial,Haldu,Hardwood
+0.632,1214,23.7,Corbett,Alluvial,Rohini,Hardwood
+0.574,1118,23.7,Corbett,Alluvial,Sal,Hardwood
+0.695,1176,26.3,Corbett,Alluvial,Rohini,Hardwood
+0.626,1345,25.0,Corbett,Alluvial,Sal,Hardwood
+0.615,1196,22.9,Corbett,Alluvial,Sal,Hardwood
+0.644,1248,23.4,Corbett,Alluvial,Rohini,Hardwood
+0.688,1274,24.8,Corbett,Alluvial,Sal,Hardwood
+0.693,1048,23.7,Corbett,Alluvial,Haldu,Hardwood
+0.67,1148,23.6,Corbett,Alluvial,Sal,Hardwood
+0.611,1238,25.3,Corbett,Alluvial,Sal,Hardwood
+0.614,1119,25.3,Corbett,Alluvial,Sal,Hardwood
+0.698,1085,25.1,Corbett,Alluvial,Haldu,Hardwood
+0.675,1306,26.3,Corbett,Alluvial,Haldu,Hardwood
+0.64,1106,22.9,Corbett,Alluvial,Haldu,Hardwood
+0.662,1225,25.5,Corbett,Alluvial,Rohini,Hardwood
+0.683,1585,25.8,Corbett,Alluvial,Haldu,Hardwood
+0.66,1298,27.0,Corbett,Alluvial,Sal,Hardwood
+0.659,1275,24.5,Corbett,Alluvial,Haldu,Hardwood
+0.575,1114,25.2,Corbett,Alluvial,Haldu,Hardwood
+0.507,1013,28.5,Corbett,Alluvial,Sal,Hardwood
+0.557,1208,24.4,Corbett,Alluvial,Rohini,Hardwood
+0.507,1308,24.3,Corbett,Alluvial,Haldu,Hardwood
+0.525,1212,27.3,Corbett,Alluvial,Rohini,Hardwood
+0.543,1221,23.9,Corbett,Alluvial,Rohini,Hardwood
+0.51,1384,28.6,Corbett,Alluvial,Rohini,Hardwood
+0.627,1218,22.0,Corbett,Alluvial,Sal,Hardwood
+0.699,933,23.3,Satpura,Alluvial,Bamboo,FastGrower
+0.52,1186,24.8,Satpura,Alluvial,Bamboo,FastGrower
+0.602,1068,23.5,Satpura,Alluvial,Teak,Hardwood
+0.563,1140,26.6,Satpura,Alluvial,Bamboo,FastGrower
+0.665,1265,24.6,Satpura,Alluvial,Bamboo,FastGrower
+0.653,1051,21.7,Satpura,Alluvial,Teak,Hardwood
+0.589,1287,23.6,Satpura,Alluvial,Teak,Hardwood
+0.524,997,19.1,Satpura,Alluvial,Mahua,Medicinal
+0.543,969,21.0,Satpura,Alluvial,Mahua,Medicinal
+0.654,1113,23.3,Satpura,Alluvial,Mahua,Medicinal
+0.594,1334,24.1,Satpura,Alluvial,Bamboo,FastGrower
+0.714,1146,22.5,Satpura,Alluvial,Bamboo,FastGrower
+0.518,1106,23.7,Satpura,Alluvial,Bamboo,FastGrower
+0.646,1166,24.2,Satpura,Alluvial,Teak,Hardwood
+0.597,1311,23.1,Satpura,Alluvial,Bamboo,FastGrower
+0.636,1158,23.8,Satpura,Alluvial,Mahua,Medicinal
+0.74,1120,23.3,Satpura,Alluvial,Teak,Hardwood
+0.58,1184,23.1,Satpura,Alluvial,Teak,Hardwood
+0.53,1245,25.4,Satpura,Alluvial,Teak,Hardwood
+0.719,1162,25.2,Satpura,Alluvial,Mahua,Medicinal
+0.571,1028,24.8,Satpura,Alluvial,Mahua,Medicinal
+0.702,1111,24.0,Satpura,Alluvial,Mahua,Medicinal
+0.593,1216,23.0,Satpura,Alluvial,Teak,Hardwood
+0.733,1209,23.7,Satpura,Alluvial,Teak,Hardwood
+0.688,1126,23.4,Satpura,Alluvial,Bamboo,FastGrower
+0.726,1102,26.0,Satpura,Alluvial,Bamboo,FastGrower
+0.58,1185,23.6,Satpura,Alluvial,Mahua,Medicinal
+0.503,1086,24.5,Satpura,Alluvial,Teak,Hardwood
+0.738,1206,26.9,Satpura,Alluvial,Bamboo,FastGrower
+0.612,978,22.5,Satpura,Alluvial,Mahua,Medicinal
+0.768,2066,28.2,Kaziranga,Peaty Soil,Figs,Medicinal
+0.797,1910,27.0,Kaziranga,Peaty Soil,Cane,FastGrower
+0.614,2177,23.9,Kaziranga,Peaty Soil,Figs,Medicinal
+0.822,1967,25.8,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.636,2135,27.9,Kaziranga,Peaty Soil,Figs,Medicinal
+0.625,1949,27.4,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.618,2087,27.8,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.62,1859,24.8,Kaziranga,Peaty Soil,Cane,FastGrower
+0.803,2136,26.0,Kaziranga,Peaty Soil,Cane,FastGrower
+0.621,2147,27.5,Kaziranga,Peaty Soil,Cane,FastGrower
+0.706,1999,26.5,Kaziranga,Peaty Soil,Figs,Medicinal
+0.717,1917,27.5,Kaziranga,Peaty Soil,Cane,FastGrower
+0.787,2008,27.7,Kaziranga,Peaty Soil,Cane,FastGrower
+0.694,1959,28.0,Kaziranga,Peaty Soil,Figs,Medicinal
+0.656,2098,27.1,Kaziranga,Peaty Soil,Cane,FastGrower
+0.848,1922,27.1,Kaziranga,Peaty Soil,Figs,Medicinal
+0.842,2040,30.4,Kaziranga,Peaty Soil,Figs,Medicinal
+0.774,1923,30.2,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.746,2097,26.8,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.755,1940,25.7,Kaziranga,Peaty Soil,Cane,FastGrower
+0.716,1818,28.5,Kaziranga,Peaty Soil,Figs,Medicinal
+0.619,2187,27.5,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.677,2097,27.9,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.641,2183,25.0,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.833,1971,26.9,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.803,2135,24.4,Kaziranga,Peaty Soil,Cane,FastGrower
+0.842,2027,27.4,Kaziranga,Peaty Soil,Silk Cotton,Medicinal
+0.717,1940,24.6,Kaziranga,Peaty Soil,Cane,FastGrower
+0.614,2030,27.4,Kaziranga,Peaty Soil,Figs,Medicinal
+0.85,2004,27.0,Kaziranga,Peaty Soil,Cane,FastGrower
+0.704,2040,22.5,Western,Laterite,Rosewood,Hardwood
+0.576,2251,23.2,Western,Laterite,Mahogany,Hardwood
+0.596,2354,24.6,Western,Laterite,Mahogany,Hardwood
+0.622,2125,23.5,Western,Laterite,Wild Nutmeg,Medicinal
+0.654,2355,23.2,Western,Laterite,Mahogany,Hardwood
+0.72,2375,26.1,Western,Laterite,Wild Nutmeg,Medicinal
+0.725,2173,21.5,Western,Laterite,Mahogany,Hardwood
+0.556,2336,24.0,Western,Laterite,Wild Nutmeg,Medicinal
+0.691,2165,22.3,Western,Laterite,Rosewood,Hardwood
+0.553,2024,24.6,Western,Laterite,Wild Nutmeg,Medicinal
+0.628,2186,24.3,Western,Laterite,Wild Nutmeg,Medicinal
+0.62,2207,25.3,Western,Laterite,Rosewood,Hardwood
+0.629,2233,24.5,Western,Laterite,Wild Nutmeg,Medicinal
+0.74,2194,20.4,Western,Laterite,Wild Nutmeg,Medicinal
+0.642,2240,23.0,Western,Laterite,Mahogany,Hardwood
+0.616,2266,21.0,Western,Laterite,Wild Nutmeg,Medicinal
+0.565,2248,21.3,Western,Laterite,Mahogany,Hardwood
+0.619,2295,22.9,Western,Laterite,Rosewood,Hardwood
+0.684,2152,22.3,Western,Laterite,Mahogany,Hardwood
+0.558,2120,22.2,Western,Laterite,Mahogany,Hardwood
+0.585,2180,20.8,Western,Laterite,Rosewood,Hardwood
+0.623,2203,25.9,Western,Laterite,Mahogany,Hardwood
+0.558,2320,23.8,Western,Laterite,Rosewood,Hardwood
+0.566,2177,22.8,Western,Laterite,Wild Nutmeg,Medicinal
+0.711,2257,21.9,Western,Laterite,Wild Nutmeg,Medicinal
+0.592,1969,22.6,Western,Laterite,Mahogany,Hardwood
+0.674,1980,22.1,Western,Laterite,Wild Nutmeg,Medicinal
+0.699,2231,23.9,Western,Laterite,Rosewood,Hardwood
+0.652,2207,21.5,Western,Laterite,Wild Nutmeg,Medicinal
+0.639,2220,20.6,Western,Laterite,Rosewood,Hardwood
+0.404,795,29.7,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.414,691,29.0,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.374,891,30.3,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.486,947,30.0,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.367,901,33.6,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.499,780,28.4,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.407,669,32.1,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.464,856,27.9,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.37,737,29.3,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.382,713,29.1,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.385,868,26.2,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.546,709,29.6,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.544,827,30.4,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.402,702,30.8,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.536,961,33.1,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.406,857,29.0,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.415,525,30.4,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.398,709,30.4,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.408,826,28.3,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.446,804,29.0,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.417,876,29.1,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.486,944,30.8,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.444,696,27.3,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.536,739,30.6,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.538,958,30.7,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.518,758,30.5,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.39,768,29.5,Gachibowli,Red Sandy,Tamarind,DroughtResistant
+0.513,1007,30.4,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.422,894,29.6,Gachibowli,Red Sandy,Banyan,ShadeTree
+0.513,699,26.9,Gachibowli,Red Sandy,Neem,DroughtResistant
+0.557,1113,22.1,Satpura,Alluvial,Gulmohar,ShadeTree
+0.611,1055,24.1,Satpura,Alluvial,Gulmohar,ShadeTree
+0.646,925,25.1,Satpura,Alluvial,Gulmohar,ShadeTree
+0.564,990,25.1,Satpura,Alluvial,Gulmohar,ShadeTree
+0.695,1126,23.7,Satpura,Alluvial,Gulmohar,ShadeTree
+0.629,1088,26.5,Satpura,Alluvial,Gulmohar,ShadeTree
+0.56,1022,28.0,Satpura,Alluvial,Gulmohar,ShadeTree
+0.583,1159,26.7,Corbett,Alluvial,Kadamba,ShadeTree
+0.517,1199,21.8,Corbett,Alluvial,Kadamba,ShadeTree
+0.595,1229,24.7,Corbett,Alluvial,Kadamba,ShadeTree
+0.633,1211,23.8,Corbett,Alluvial,Kadamba,ShadeTree
+0.647,998,23.3,Corbett,Alluvial,Kadamba,ShadeTree
+0.597,1253,23.2,Corbett,Alluvial,Kadamba,ShadeTree
+0.556,1108,26.1,Corbett,Alluvial,Kadamba,ShadeTree
+0.704,1803,26.5,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.613,1849,26.8,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.603,1698,22.1,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.614,1785,25.0,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.736,1879,25.4,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.719,1733,25.2,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.691,1786,25.7,Sundarban,Saline Loam,Indian Almond,ShadeTree
+0.443,841,27.1,Gir,Dry Clay,Subabul,FastGrower
+0.501,762,28.3,Gir,Dry Clay,Subabul,FastGrower
+0.481,886,27.8,Gir,Dry Clay,Subabul,FastGrower
+0.47,941,28.0,Gir,Dry Clay,Subabul,FastGrower
+0.484,844,30.3,Gir,Dry Clay,Subabul,FastGrower
+0.451,925,28.4,Gir,Dry Clay,Subabul,FastGrower
+0.477,998,25.1,Gir,Dry Clay,Subabul,FastGrower
+0.674,2082,22.7,Western,Laterite,Eucalyptus,FastGrower
+0.649,2319,23.3,Western,Laterite,Eucalyptus,FastGrower
+0.69,2159,20.3,Western,Laterite,Eucalyptus,FastGrower
+0.74,2168,24.3,Western,Laterite,Eucalyptus,FastGrower
+0.713,2216,23.2,Western,Laterite,Eucalyptus,FastGrower
+0.603,2109,24.2,Western,Laterite,Eucalyptus,FastGrower
+0.699,2142,21.6,Western,Laterite,Eucalyptus,FastGrower
+0.497,911,32.0,Gachibowli,Red Sandy,Moringa,FastGrower
+0.493,941,31.2,Gachibowli,Red Sandy,Moringa,FastGrower
+0.497,870,28.0,Gachibowli,Red Sandy,Moringa,FastGrower
+0.409,873,29.7,Gachibowli,Red Sandy,Moringa,FastGrower
+0.373,868,29.7,Gachibowli,Red Sandy,Moringa,FastGrower
+0.421,709,28.6,Gachibowli,Red Sandy,Moringa,FastGrower
+0.37,798,30.9,Gachibowli,Red Sandy,Moringa,FastGrower
+0.564,1099,21.3,Satpura,Alluvial,Sesbania,FastGrower
+0.564,1026,24.0,Satpura,Alluvial,Sesbania,FastGrower
+0.583,1038,25.5,Satpura,Alluvial,Sesbania,FastGrower
+0.519,1165,24.7,Satpura,Alluvial,Sesbania,FastGrower
+0.604,1207,26.7,Satpura,Alluvial,Sesbania,FastGrower
+0.622,1117,25.7,Satpura,Alluvial,Sesbania,FastGrower
+0.504,1034,25.9,Satpura,Alluvial,Sesbania,FastGrower
